@@ -1,0 +1,651 @@
+
+.nav{
+    position: absolute;
+    top: 20px;
+   
+    margin-left: 150px;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+.nav1,.nav2,.nav3,.nav4,.nav5{
+    margin-left: 50px;
+
+
+
+
+
+}
+
+.nav1:hover,.nav2:hover,.nav3:hover,.nav4:hover,.nav5:hover{
+    color: grey;
+}
+.nav6,.nav7,.nav8,.nav9,.nav10{
+    margin-left: 50px;
+}
+.no2{
+    position: absolute;
+    left: 1000px;
+    top: 12px;
+}
+.nav6,.nav7{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: 15px;
+color: black;
+}
+.nav6:hover,.nav7:hover,.nav8:hover,.nav9:hover,.nav10:hover{
+    color: grey;
+    background-color: rgba(128, 128, 128, 0.715);
+}
+
+
+li:hover{
+
+    color: gray;
+}
+.sec3:hover{
+    background-color: gray;
+}
+
+body{
+
+
+
+    margin: 0;
+}
+
+
+.content1{
+    position: fixed;
+    height: 60px;
+    width: 1515px;
+    color: red;
+    background-color: rgb(251, 246, 246);
+    z-index: 1;
+    
+}
+.no1{
+    position: absolute;
+    top: 15px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    border-radius: 50px;
+}
+.live{
+display: inline;
+}
+li{
+    text-align: end;
+   
+    
+    display: inline-table;
+ margin-left: 50px;
+ 
+}
+#ul1{
+    position: fixed;
+    left: 70px;
+    top: 10px;
+    font-size:large;
+    font-weight: 600px;
+    padding-bottom: 5px;
+}
+ol{
+
+    position: fixed;
+    left: 900px;
+font-weight: 100px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+.sec{
+    height: 600px;
+    top: 5px;
+    width: 1515px;
+    background-color: aqua;
+    background-image: url("https://i03.appmifile.com/660_operator_in/17/05/2023/074babc9a0cfe797cb175793c35dc281.jpg?f=webp");
+    background-size: cover;
+}
+
+.sec1{
+
+text-align:center;
+position: absolute;
+top: 250px;
+left: 190px;
+color: white;
+font-weight: lighter;
+font font-family: 'Camphor Pro VF', 'Camphor Pro', sans-serif;
+
+}
+.sec2{
+    text-align: center;
+    position: absolute;
+    top: 300px;
+    left: 190px;
+    color: white;
+    font-weight: lighter;
+
+
+}
+.sec3{
+    text-align: center;
+    position: absolute;
+    top: 400px;
+    left: 190px;
+    color: rgb(0, 0, 0);
+    font-weight: lighter;
+    height: 20px;
+    width: 100px;
+    background-color: white;
+    border-radius: 200px;
+}
+.sec4{
+    text-align: center;
+    position: absolute;
+    top:350px;
+    left:190px;
+    color:white;
+    font-weight: lighter;
+    font-size: 25px;
+}
+.thir{
+    height: 500px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+
+    background-size: cover;
+
+}
+
+
+.th11{
+
+    text-align: center;
+
+}
+.th12{
+    position: absolute;
+color:rgb(12, 12, 12);
+top:900px;
+left:300px;
+font-size: 30px;
+}
+.th12:hover{
+    color: blue;
+}
+.th13{
+
+text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+
+
+
+#th1{
+    height: 500px;
+    width: ;
+    background-color: blue;
+    background-image: url("https://i03.appmifile.com/669_operator_in/11/05/2023/a7e81b295830efb9d9dd3c02e5842b05.jpg?f=webp");
+    background-size: cover;
+    margin-left: 15px;
+}
+#th2{
+    position: absolute;
+    left: 700px;
+    top: 613px;
+    height: 500px;
+    width: 50%;
+    margin-left: 15px;
+    background-color: blue;
+    margin-right: 35px;
+margin-right: 100px;
+    
+    background-image: url("https://i03.appmifile.com/343_operator_in/08/12/2022/2dd5dbdd3a1efdc1ff26b8f67d3def6a.jpg?f=webp");
+    background-size: cover;
+}
+.th21{
+    font-family: system-ui, 'Camphor Pro VF', 'Camphor Pro', sans-serif;
+    margin-left: 1px;
+    margin-right: 600px;
+    text-align: center;
+    font-weight: 900px;
+    font-size: 40px;
+    color: white;
+}
+.th22{
+    text-align: center;
+    
+  font-weight: lighter;
+  color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.th23{
+    color: white;
+    position: relative
+    ;
+    left: 200px;
+
+
+text-align: center;
+
+
+}
+
+.th23:hover{
+color: orange;
+}
+.four{
+   height: 610px;
+   width: 1515px;
+   background-color: rgb(238, 234, 241);
+    
+
+}
+#f1{
+    margin-left: 13px;
+    
+    height: 610px;
+    width: 50%;
+    background-color: blue;
+    background-image: url("https://i03.appmifile.com/468_operator_in/17/05/2023/38c48687e2d6ad8d5e09f7268412a73a.jpg?f=webp");
+    background-size: cover;
+
+}
+#f2{
+    position: absolute;
+    left: 780px;
+    top: 1154px;
+
+    height: 610px;
+    width: 50%;
+    background-color: blue;
+    background-image: url("https://i03.appmifile.com/642_operator_in/15/05/2023/5c47f700ef61a040c2d6ad5de77cfb73.jpg?f=webp");
+    background-size: cover;
+
+
+
+
+}
+
+
+
+.ff31{
+   text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight:10px;
+   margin-left:570px;
+   margin-top: px;
+   margin-bottom: ;
+
+
+
+    }
+    #ff32{
+        color: orange;
+        text-align: center;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    #ff32:hover{
+        color: red;
+    }
+
+#ff3{
+    position: absolute;
+border-radius: 30px;
+    top: 200px;
+    left: 40px;
+    height: 350px;
+    width: 300px;
+    background-color: blue;
+    background-image: url("https://snow.snowlizardproducts.com/how_to_enable_fast_charging_in_mi_power_bank.jpg");
+    background-size: cover;
+}
+.five{
+    height:1100px;
+    width: 1515px;
+    background-color: rgb(235, 237, 226);
+}
+#fv1{
+    margin-left: 50px;
+    margin-top: 50px;
+    
+    height:450px;
+    width: 700px;
+    background-color: rgb(64, 47, 255);
+    background: url("https://i03.appmifile.com/52_operator_in/19/04/2023/e4385d144c001fa372384a89941426dc.jpg?f=webp");
+    background-size: cover;
+}
+#fv11{
+    margin-left:70px;
+    margin-top:50px;
+    background:url(https://i03.appmifile.com/52_operator_in/19/04/2023/e4385d144c001fa372384a89941426dc.jpg?f=webp)
+}
+#fv2{
+    margin-left: 800px;
+   position: relative;
+bottom: 500px;
+
+    
+    
+    height:450px;
+    width: 700px;
+    background-color: rgb(255, 255, 255);
+
+
+}
+#fv3{
+  color: rgb(255, 102, 0);
+  margin-top: 130px;
+  margin-left: 300px;
+}
+#fv5{
+    margin-left: 250px;
+}
+#fv6{
+
+    color: rgba(0, 0, 0, 0.726);
+    margin-left: 102px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+#fv7{
+    color: rgba(0, 0, 0, 0.726);
+    margin-left: 300px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+#fv8{
+
+height: 20px;
+width: 150px;
+background-color: rgba(0, 0, 0, 0);
+margin-left: 280px;
+font-weight: bold30px;
+border: rgba(0, 0, 0, 0);
+font-weight: 100px;
+
+
+
+}
+#fv8:hover{
+    color: orange;
+
+}
+#fv9{
+    margin-top: 50px;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0);
+    width: 40px;
+   margin-left: 300px;
+}
+#fv10{
+    margin-top: 50px;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0);
+    width: 40px;
+   margin-left: 20px;
+
+
+
+}
+#six{
+position: absolute;
+right:800px;
+top: 450px;
+
+background-color: rgb(255, 255, 255);
+width:650px;
+height: 
+500px;
+margin-left:200px;
+
+
+}
+.s1{
+    margin:50px;
+    
+
+}
+.s2{
+    position: relative;
+    right: 50px;
+
+
+
+
+
+}
+.seven{
+  position: relative;
+  top: 120px;
+height: 250px;
+width: 700px;
+background-color: rgb(250, 244, 244);
+border-radius: 20px;
+margin-bottom: 20px;
+text-align: center;
+
+
+}
+.sev1{
+
+margin-left: 50px;
+position: relative;
+top: 50px;
+}
+.sev2{
+    position: relative;
+    top: 40px;
+
+
+
+
+}
+#sev2{
+    position: relative;
+    top: 1px;
+    left: 70px;
+}
+/*footer*/
+.eight{
+
+    height: 900px;
+    width: 1515px;
+    background-color: rgb(55, 52, 52);
+    display: flex;
+   flex-direction: row;
+
+   
+
+    
+}
+.sss:hover{
+    color: orange;
+}
+
+
+.eh1,.eh2,.eh3,.eh4,.eh5,.eh6,.eh7,.eh8,.eh9,.eh10,.eh11{
+
+
+    background-color: rgba(255, 255, 255, 0);
+    
+flex-direction:column;
+display: flex;
+justify-content: flex-start;
+
+border: solid rgba(255, 255, 255, 0) 2px;
+width: 150px;
+height: 10px;
+padding-top: 15px;
+padding-left: 20px;
+align-items: center;
+margin-left: 20px;
+margin-top: 40px;
+font-family: 'Courier New', Courier, monospace;
+color: rgb(171, 170, 170);
+}
+.eh1{
+    color: white;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.eight1,.eight2,.eight3,.eight4,.eight5{
+    
+    height:900px;
+    width: 300px;
+    background-color: rgb(64, 65, 63);
+    
+
+}
+.eh12,.eh13,.eh14,.eh15,.eh16,.eh17,.eh18,.eh19{
+
+
+    background-color: rgba(255, 255, 255, 0);
+    
+flex-direction:column;
+display: flex;
+justify-content: flex-start;
+
+border: solid rgba(255, 255, 255, 0) 2px;
+width: 150px;
+height: 10px;
+padding-top: 15px;
+padding-left: 20px;
+align-items: center;
+margin-left: 20px;
+margin-top: 40px;
+font-family: 'Courier New', Courier, monospace;
+color: rgb(171, 170, 170);
+}
+.eh12{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      font-size: 20px;
+      font-weight: bolder;
+  
+
+}
+.eh20,.eh21,.eh22,.eh23{
+    background-color: rgba(255, 255, 255, 0);
+    
+flex-direction:column;
+display: flex;
+justify-content: flex-start;
+
+border: solid rgba(255, 255, 255, 0) 2px;
+width: 150px;
+height: 10px;
+padding-top: 15px;
+padding-left: 20px;
+align-items: center;
+margin-left: 20px;
+margin-top: 40px;
+font-family: 'Courier New', Courier, monospace;
+color: rgb(171, 170, 170);
+
+
+
+}
+.eh20{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      font-size: 20px;
+      font-weight: bolder;
+
+}
+.eh24,.eh25,.eh26,.eh27,.eh28,.eh29,.eh30,.eh31{
+
+
+    background-color: rgba(255, 255, 255, 0);
+    
+flex-direction:column;
+display: flex;
+justify-content: flex-start;
+
+border: solid rgba(255, 255, 255, 0) 2px;
+width: 150px;
+height: 10px;
+padding-top: 15px;
+padding-left: 20px;
+align-items: center;
+margin-left: 20px;
+margin-top: 40px;
+font-family: 'Courier New', Courier, monospace;
+color: rgb(171, 170, 170);
+}
+.eh24{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      font-size: 20px;
+      font-weight: bolder;
+
+}
+.eh32{
+    
+    background-color: rgba(255, 255, 255, 0);
+    
+flex-direction:column;
+display: flex;
+justify-content: flex-start;
+
+border: solid rgba(255, 255, 255, 0) 2px;
+width: 150px;
+height: 10px;
+padding-top: 15px;
+padding-left: 20px;
+align-items: center;
+margin-left: 20px;
+margin-top: 40px;
+font-family: 'Courier New', Courier, monospace;
+color: rgb(171, 170, 170);
+color: white;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 20px;
+  font-weight: bolder;
+}
+.nine{
+    padding-top: 30px;
+    position: relative;
+    top: 20px;
+    left: 50px;
+   
+
+}
+.nin1,.nin2{
+display: flex;
+    background-color: rgb(50, 45, 45);
+    height: 90px;
+    width: 300px;
+    border: solid 1px rgb(255, 255, 255) ;
+    align-items: center;
+
+    
+
+
+}
+.nin1{
+    margin-top: 20px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    height: 100px;
+}
+.nin2{
+
+border-bottom-left-radius: 30px;
+border-bottom-right-radius:30px ;
+
+
+}
+
+
+
+
